@@ -1,7 +1,5 @@
-streamlit==1.21.0
-speechrecognition==3.8.1
-gtts==2.2.4
-sqlite3  # SQLite comes pre-installed with Python, so no need to add this in requirements.txt
-hashlib  # hashlib is part of Python's standard library, no need to include this in requirements.txt
-langchain-google-genai==0.1.0  # Make sure to specify the correct version or the package name if it's different
-langchain-groq==0.1.0  # Similarly, verify the exact version and package name
+streamlit
+speechrecognition
+gtts
+langchain-google-genai
+langchain-groq

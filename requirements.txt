@@ -3,3 +3,4 @@ speechrecognition
 gtts
 langchain-google-genai
 langchain-groq
+pyaudio
